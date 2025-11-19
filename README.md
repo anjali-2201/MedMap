@@ -103,16 +103,3 @@ ambulance-route-optimizer/
 ![Route Optimizer Preview](Route_01.png)
 ![Route Optimizer Preview](Route_02.png)
 
-
-
-## 🤝 Contributing
-
-Contributions are welcome! Open an issue or submit a PR for:
-
-🐛 Bug fixes  
-🚀 Performance optimizations  
-🌟 New features (e.g., A\* algorithm, live traffic API integration)
-
-## License
-
-This project is open source and available under the MIT License.
